@@ -1,2 +1,3 @@
 # Covid-Tracker
-Link : https://csb-0wmh8-bzbstyzuw.vercel.app/
+Designed Project task management tool through which we can manage all
+task of multiple projects at one place.
