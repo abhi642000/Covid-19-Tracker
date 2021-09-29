@@ -1,3 +1,4 @@
 # Covid-Tracker
-Designed Project task management tool through which we can manage all
-task of multiple projects at one place.
+React js based website which shows live updated numbers and graph of
+covid- 19 patients country-wise and global using API.
+
